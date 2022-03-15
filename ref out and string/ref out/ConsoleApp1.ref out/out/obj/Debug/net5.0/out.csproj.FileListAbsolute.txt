@@ -1,0 +1,16 @@
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.exe
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.deps.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.runtimeconfig.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.runtimeconfig.dev.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\bin\Debug\net5.0\out.pdb
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.csproj.AssemblyReference.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.GeneratedMSBuildEditorConfig.editorconfig
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.AssemblyInfoInputs.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.AssemblyInfo.cs
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.csproj.CoreCompileInputs.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\refint\out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.pdb
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\out.genruntimeconfig.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\out\obj\Debug\net5.0\ref\out.dll

@@ -1,0 +1,16 @@
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.exe
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.deps.json
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.runtimeconfig.json
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.runtimeconfig.dev.json
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.dll
+F:\string\string.ders\string.ders\bin\Debug\net5.0\string.ders.pdb
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.csproj.AssemblyReference.cache
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.GeneratedMSBuildEditorConfig.editorconfig
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.AssemblyInfoInputs.cache
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.AssemblyInfo.cs
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.csproj.CoreCompileInputs.cache
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.dll
+F:\string\string.ders\string.ders\obj\Debug\net5.0\refint\string.ders.dll
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.pdb
+F:\string\string.ders\string.ders\obj\Debug\net5.0\string.ders.genruntimeconfig.cache
+F:\string\string.ders\string.ders\obj\Debug\net5.0\ref\string.ders.dll

@@ -1,0 +1,16 @@
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.exe
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.deps.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.runtimeconfig.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.runtimeconfig.dev.json
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\bin\Debug\net5.0\ConsoleApp1.ref out.pdb
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.csproj.AssemblyReference.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.GeneratedMSBuildEditorConfig.editorconfig
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.AssemblyInfoInputs.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.AssemblyInfo.cs
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.csproj.CoreCompileInputs.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\refint\ConsoleApp1.ref out.dll
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.pdb
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ConsoleApp1.ref out.genruntimeconfig.cache
+F:\ref out-Stringbuilder\ConsoleApp1.ref out\ConsoleApp1.ref out\obj\Debug\net5.0\ref\ConsoleApp1.ref out.dll
